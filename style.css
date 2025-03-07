@@ -13,7 +13,7 @@ body {
     width: 35px;
     height: 35px;
     position: absolute;
-    background: url('img/petal.png');
+    background: url('petal.png');
     background-size: 100% 100%;
 }
 #petals {
